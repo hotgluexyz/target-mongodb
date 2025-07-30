@@ -1,8 +1,9 @@
 # target-mongodb
 
-`target-mongodb` is a Singer target for MongoDB.
+**target-mongodb** is a Singer Target for writing data to a MongoDB database.
+**target-mongodb** can be run on [hotglue](https://hotglue.com), an embedded integration platform for running Singer Taps and Targets.
 
-Build with the [Meltano Target SDK](https://sdk.meltano.com).
+This target is built with the [Meltano Target SDK](https://sdk.meltano.com).
 
 ## Installation
 
